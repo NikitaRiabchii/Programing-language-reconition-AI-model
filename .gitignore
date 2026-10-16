@@ -1,0 +1,3 @@
+# Ignore any "Traning set" folder anywhere in the repo
+**/Traning set/
+**/.idea/
